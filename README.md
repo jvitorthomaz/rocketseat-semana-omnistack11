@@ -1,5 +1,9 @@
 # Semana Omnistack 11 - Rocketseat
 Be The Hero - Projeto desenvolvido durante a semana omnistack 11
+
+<p align="center">
+  <img alt="Frontend" src="bethehero.png" width="100%">
+</p>
  
 # Back-end
 
